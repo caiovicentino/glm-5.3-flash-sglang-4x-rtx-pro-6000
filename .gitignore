@@ -1,0 +1,7 @@
+_raw_*
+*.jsonl
+*.log
+.env
+/root/
+__pycache__/
+secrets/
